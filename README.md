@@ -33,7 +33,7 @@ GIF created with [Giphy](https://giphy.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was having trouble moving the tip segmented control to the settings view controller because I kept receiving a nil value.
 
 ## License
 
